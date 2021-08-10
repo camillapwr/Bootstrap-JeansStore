@@ -1,0 +1,34 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+.carousel-inner .carousel-item {
+  height: 100vh;
+}
+.carousel-caption {
+  right: auto;
+  bottom: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 5;
+}
+.carousel-item img {
+height: 100%;
+object-fit: cover;
+}
+.card img {
+width: 100%;
+height: 300px;
+object-fit: cover;
+}
+
+.contact {
+  
+background-color: #eff2f5;
+}
+
+.footer {
+background-color: #c3c5c8;
+}
